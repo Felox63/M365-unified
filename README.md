@@ -1,4 +1,4 @@
-# M365 Unified Skill v1.0.0
+# M365 Unified Skill v2.0.0
 
 Modular Microsoft Graph API skill for OpenClaw with optional features for Exchange Online, SharePoint, OneDrive, and Planner.
 
