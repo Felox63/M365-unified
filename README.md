@@ -275,3 +275,7 @@ MIT
 ## Author
 
 OpenClaw Community
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/felox63/m365-unified.svg)](https://skill-history.com/felox63/m365-unified)
